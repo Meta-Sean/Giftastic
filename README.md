@@ -4,4 +4,4 @@
 - Click the Gif to start the animation and again to pause the animation.
 - Enjoy
 
-![alt text](https://imgur.com/a/DtMYc8B)
+![alt text](https://i.imgur.com/3ijcMkt.png)
